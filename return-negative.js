@@ -12,4 +12,3 @@ function makeNegative(num) {
   return -num * Math.sign(num);
 }
 
-console.log(makeNegative(2))
